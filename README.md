@@ -6,6 +6,7 @@ The HR Analytics Dashboard aims to address these challenges by providing a data-
 
 # Task List
 1.Understand the Working Preference of the Peoples.
+
 2.Find the Presence,Sick Leave and Work from Home Percentages of the Employees in a Company Separately.
 3.Then Represent Presence Precentage, Work from Home Percentage, Sick Leave Percentage that Depends of its Date.
 4.Represent the Presence percentage of a separate employee According to their Work from Home Percentage amd Sick Leave Percentage.
