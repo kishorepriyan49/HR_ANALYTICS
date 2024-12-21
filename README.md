@@ -31,7 +31,7 @@ The HR Analytics Dashboard aims to address these challenges by providing a data-
 # Some Important Insights from the Dashboard
 1.Attendance Percentage:91.7% | Work from Home Percentage:9.8% | Sick Leave Percentage:1.1%.
 
-2.Day of week Percentages of separate Preferences are Sick Leave:1.14% | Worrk From Home:9.8%
+2.Day of week Percentages for separate work Preferences are Sick Leave:1.14% | Work From Home:9.8%
 
 3.Attendance Trend: The trend of the Attendance Percentage over Time has an medium trend.
 
