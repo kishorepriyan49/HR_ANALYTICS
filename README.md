@@ -1,0 +1,3 @@
+# HR ANALYTICS
+Organizations often face challenges in managing their workforce effectively due to the lack of centralized and actionable insights. Traditional methods of analyzing HR data are time-consuming and inefficient, leading to missed opportunities for improving employee performance, reducing attrition, and fostering a diverse and inclusive workplace.
+The HR Analytics Dashboard aims to address these challenges by providing a data-driven platform that empowers HR professionals and business leaders with actionable insights into key metrics. By leveraging Power BI, the dashboard facilitates real-time visualization and analysis of data, enabling informed decision-making to optimize workforce management strategies.
